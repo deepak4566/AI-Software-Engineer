@@ -1,4 +1,4 @@
-# Lovable Clone
+# AI-Software-Engineer
 
 Thank you so much for checking out this project! 🙏  
 We appreciate your interest and hope you enjoy exploring and building with it.
